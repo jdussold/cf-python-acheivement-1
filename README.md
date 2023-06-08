@@ -13,19 +13,19 @@
 
 First, install Python 3.8.7 on your system. Check your Python version by using the command `python --version` from your terminal.
 
-![Step 1](./exercise_1/step1.png)
+![Step 1](./exercise_1.1/step1.png)
 
 ## Set Up a Virtual Environment
 
 Set up a new virtual environment named “cf-python-base”.
 
-![Step 2](./exercise_1/step2.png)
+![Step 2](./exercise_1.1/step2.png)
 
 ## Create a Python Script
 
 Install Visual Studio Code or another text editor of your choice and create a Python script named “add.py”. This script will take two numbers from the user input, add them, and print the result. Here's the template for your Python script:
 
-![Step 3](./exercise_1/step3.png)
+![Step 3](./exercise_1.1/step3.png)
 
 ```python
 # Prompt the user to enter the first number
@@ -45,13 +45,13 @@ print("The sum of", a, "and", b, "is:", c)
 
 Set up an IPython shell in the virtual environment "cf-python-base". An IPython shell is similar to the regular Python REPL with additional features like syntax highlighting, auto-indentation, and robust auto-complete features. Install it using pip.
 
-![Step 4](./exercise_1/step4.png)
+![Step 4](./exercise_1.1/step4.png)
 
 ## Export a Requirements File
 
 Generate a “requirements.txt” file from your source environment. Next, create a new environment called “cf-python-copy”. In this new environment, install packages from the “requirements.txt” file.
 
-![Step 5](./exercise_1/step5.png)
+![Step 5](./exercise_1.1/step5.png)
 
 # Exercise 2
 
