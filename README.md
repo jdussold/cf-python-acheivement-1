@@ -122,7 +122,7 @@ Open a Python script in an editor of your choice and name it â€œExercise_1.3.pyâ
 
 ![step 1](./exercise_1.3/step1.png)
 
-## Initialize Tow Empty Lists
+## Initialize Two Empty Lists
 
 Initialize two empty lists: recipes_list and ingredients_list.
 
