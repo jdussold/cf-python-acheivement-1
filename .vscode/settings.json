@@ -2,5 +2,16 @@
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
-  "python.formatting.provider": "none"
+  "python.formatting.provider": "none",
+  "cSpell.words": [
+    "Cybersix",
+    "Dredd",
+    "Drengen",
+    "Dukse",
+    "Kamen",
+    "Nelvana",
+    "Santo",
+    "Superdupont",
+    "Supergirl"
+  ]
 }
