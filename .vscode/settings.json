@@ -10,7 +10,10 @@
     "Dukse",
     "Kamen",
     "Nelvana",
+    "REPR",
     "Santo",
+    "sessionmaker",
+    "sqlalchemy",
     "Superdupont",
     "Supergirl"
   ]
